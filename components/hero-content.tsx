@@ -13,18 +13,17 @@ export default function HeroContent() {
           }}
         >
           <div className="absolute top-0 left-1 right-1 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent rounded-full" />
-          <span className="text-white/90 text-xs font-light relative z-10">AI-Powered Insider Intelligence</span>
+          <span className="text-white/90 text-xs font-light relative z-10">AI-Powered Medical Scribe for Women's Health</span>
         </div>
 
         <h1 className="text-5xl md:text-6xl md:leading-16 tracking-tight font-light text-white mb-4">
-          <span className="font-medium italic instrument">Hawkeye</span>
+          <span className="font-medium italic instrument">Lunara</span>
           <br />
-          <span className="font-light tracking-tight text-white">Uncover insider trading patterns</span>
+          <span className="font-light tracking-tight text-white">Empowering accurate diagnoses for women</span>
         </h1>
 
         <p className="text-xs font-light text-white/70 mb-6 leading-relaxed max-w-xl">
-          Track stock trades from politicians and top executives in real-time. AI-powered analysis reveals hidden
-          connections and trading patterns through continuous graph intelligence.
+          Lunara Scribe listens to doctor-patient conversations in real-time, providing AI-assisted diagnostic support to help identify often-misdiagnosed women-centric conditions like PCOS, endometriosis, and other disorders that disproportionately affect women's health.
         </p>
 
         <div className="mb-6">
